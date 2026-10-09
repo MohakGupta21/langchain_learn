@@ -1,0 +1,7 @@
+.env
+/chroma_db
+/env
+chat_history.db
+__pycache__/03_rag.cpython-311.pyc
+__pycache__/layer1.cpython-311.pyc
+frontend/.oxlintrc.json
